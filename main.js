@@ -141,5 +141,3 @@ const handleInputChange = () => {
 	}
 	debounceGetRepos(inputValue)
 }
-
-searchInput.addEventListener('input', handleInputChange)
